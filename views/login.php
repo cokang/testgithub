@@ -9,7 +9,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<nav class="navbar navbar-default" style="background:green;">
+	<nav class="navbar navbar-default">
 	  <div class="container-fluid">
 		<div class="navbar-header">
 		  <p class="navbar-brand">Simple Login System</p>
