@@ -10,7 +10,7 @@
 </head>
 <body>
 	<nav class="navbar navbar-default">
-	  <div class="container-fluid" style="background:#FFC0CB;">
+	  <div class="container-fluid" style="background:green;">
 		<div class="navbar-header">
 		  <p class="navbar-brand">Simple Login System</p>
 		</div>
