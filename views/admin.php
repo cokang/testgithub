@@ -16,7 +16,7 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		  <form class="navbar-form navbar-right" role="search" action="<?php echo 'http://localhost/answers/index.php/logout/logout'; ?>">
-			<button type="submit" class="btn btn-default">Logout</button>
+			<button type="submit" class="btn btn-default" style="border-radius: 50%;">Logout</button>
 		  </form>
 		</div>
 	  </div>
